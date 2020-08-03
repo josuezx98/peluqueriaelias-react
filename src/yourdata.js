@@ -4,13 +4,14 @@ export default
         headerTagline: [
                         'Elias Miño',
                         
-                        'Peluquero profesional',
+                        'Peluqueria profesional',
                         
                         'Argentina'
     ],
         contactEmail:'',
         abouttext: "No intento hacer lo que hace todo el mundo, porque todo el mundo hace lo que hacen los demás.",
-        aboutImage:'Eliasdos.png',
+        imageportate: 'Eliasdos.png',
+        aboutImage:'Eliascuatro.jpg',
        ShowAboutImage:true,
        projects:[
            {
