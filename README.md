@@ -1,6 +1,4 @@
-link del proyecto: eliaspelqueria.netlify.app 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+link del proyecto: [Elias peluqueria]( https://eliaspeluqueria.netlify.app).
 
 ## Available Scripts
 
