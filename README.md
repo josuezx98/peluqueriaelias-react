@@ -1,5 +1,5 @@
-link del proyecto: [Elias peluqueria]( https://eliaspeluqueria.netlify.app).
 
+* :page_with_curl: WebSite **[Peluqueria](https://eliaspeluqueria.netlify.app/** :v:
 ## Available Scripts
 
 In the project directory, you can run:
